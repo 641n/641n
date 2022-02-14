@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Sir Gain's Page created in GitHub Pages
+
+This is an example of a static webpage made in GitHub Pages.
 
 You can use the [editor on GitHub](https://github.com/641n/641n/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
+
+### Jekyll
+
+Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site's look and feel, URLs, the data displayed on the page, and more.
 
 ### Markdown
 
-**Markdown** is a lightweight and easy-to-use syntax for styling your writing. Unlike HTML which is stands for Hyper Text **Markup** Language, it is simpler and easy to use and understand. It includes conventions for
+**Markdown** is a lightweight and easy-to-use syntax for styling your writing. Unlike HTML (Hyper Text **Markup** Language), it is simpler and easy to use and understand. Markdown files has a file extension of .md. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
